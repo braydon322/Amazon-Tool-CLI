@@ -1,6 +1,6 @@
 # Amazon Tool
 
-(cli.gif)
+![alt text](cli.gif)
 
 This is a tool to allow users to find the top 3 bestsellers in each Amazon Category.
 More features to be added soon including a review generator.
